@@ -5,3 +5,8 @@ body {
 #h-color {
     color:red;
 }
+.link-button {
+    text-decoration: none;
+    background-color: orange;
+    padding: 10px 40px;
+}
