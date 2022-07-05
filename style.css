@@ -1,6 +1,7 @@
 
 body {
     font-family: 'Poppins', sans-serif;
+    margin: 0;
 }
 #h-color {
     color:red;
@@ -9,6 +10,7 @@ body {
     text-decoration: none;
     background-color: orange;
     padding: 10px 40px;
+    margin-left: 30px;
 }
 .content-flex {
     display: flex;
@@ -19,4 +21,18 @@ body {
 .half-width img {
     width: 100%;
 
+}
+h1 {
+    font-size: 50px;
+    margin-left: 20px;
+    margin-top: 20px;
+    padding-top: 30px;
+}
+.subtitle-size {
+    margin: 20px 20px;
+    padding: 20px 10px;
+   
+}
+#para-size {
+    text-align: justify;
 }
