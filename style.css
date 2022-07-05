@@ -66,3 +66,22 @@ h1 {
 #margin-top {
     margin-top:px;
 }
+.experience-item {
+    box-shadow: 10px 10px 160px gray;
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    
+}
+#experience-border-one {
+    border-left: 5px solid orange;
+}
+#experience-border-two {
+    border-left: 5px solid blue;
+}
+footer {
+    margin: 50px;
+    text-align: center;
+    text-decoration: underline 2px blue;
+    color: brown;
+}
