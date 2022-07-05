@@ -8,9 +8,10 @@ body {
 }
 .link-button {
     text-decoration: none;
-    background-color: orange;
+    background-color: aqua;
     padding: 10px 40px;
     margin-left: 30px;
+    b
 }
 .content-flex {
     display: flex;
@@ -35,4 +36,22 @@ h1 {
 }
 #para-size {
     text-align: justify;
+}
+
+#sec-sub {
+    width: 50%;
+    height: 50%;
+    margin-left: 150px;
+    padding-left: 200px;
+    
+}
+#section-top {
+    margin-top: 50px;
+}
+#second-image {
+    height: 500px;
+    width: 450px;
+}
+#last-heading {
+    margin-right: 150px;
 }
